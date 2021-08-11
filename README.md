@@ -74,7 +74,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="beanbeanjuice's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beanbeanjuice&show_icons=true&hide_border=true" />
+  <img align="left" alt="beanbeanjuice's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beanbeanjuice&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true" />
 
 </details>
 
