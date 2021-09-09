@@ -62,11 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#411](https://github.com/beanbeanjuice/cafeBot/pull/411) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗️ Opened issue [#410](https://github.com/beanbeanjuice/cafeBot/issues/410) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/1) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
-4. 💪 Opened PR [#1](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/1) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
-5. ❗️ Opened issue [#409](https://github.com/beanbeanjuice/cafeBot/issues/409) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🗣 Commented on [#4722](https://github.com/jitpack/jitpack.io/issues/4722) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
+2. ❗️ Opened issue [#4722](https://github.com/jitpack/jitpack.io/issues/4722) in [jitpack/jitpack.io](https://github.com/jitpack/jitpack.io)
+3. 💪 Opened PR [#411](https://github.com/beanbeanjuice/cafeBot/pull/411) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗️ Opened issue [#410](https://github.com/beanbeanjuice/cafeBot/issues/410) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/1) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
 <!--END_SECTION:activity-->
 
 </details>
