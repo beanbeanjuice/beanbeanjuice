@@ -62,11 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#405](https://github.com/beanbeanjuice/cafeBot/issues/405) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#416](https://github.com/beanbeanjuice/cafeBot/pull/416) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 💪 Opened PR [#415](https://github.com/beanbeanjuice/cafeBot/pull/415) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗️ Closed issue [#401](https://github.com/beanbeanjuice/cafeBot/issues/401) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🗣 Commented on [#401](https://github.com/beanbeanjuice/cafeBot/issues/401) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🎉 Merged PR [#3](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/3) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
+2. 💪 Opened PR [#3](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/3) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
+3. ❌ Closed PR [#2](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/2) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
+4. 💪 Opened PR [#2](https://github.com/beanbeanjuice/cafe-api-wrapper/pull/2) in [beanbeanjuice/cafe-api-wrapper](https://github.com/beanbeanjuice/cafe-api-wrapper)
+5. ❗️ Closed issue [#405](https://github.com/beanbeanjuice/cafeBot/issues/405) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
