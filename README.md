@@ -50,8 +50,8 @@
 - [another valorant montage - "I NEED TO RELOAD"](https://www.youtube.com/watch?v=SrRaW5acFAs)
 - [SO MUCH SCREAMING - beanbeanjuice Stream Highlights #1](https://www.youtube.com/watch?v=bbD243tfFYo)
 - [So I trapped my classmates in my Minecraft Realm for 3 Hours...](https://www.youtube.com/watch?v=2Kv5zelbFyk)
-- [i'm 17](https://www.youtube.com/watch?v=IO7EL5UGdo4)
 - [when the kids who challenged you to a 2v2 start trash talking (CSGO 2v2 FUNNY MOMENTS AND FAILS)](https://www.youtube.com/watch?v=lNADcCuoxVA)
+- [happy birthday to you.](https://www.youtube.com/watch?v=SmVztaL5ZWA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/beanbeanjuice)
