@@ -65,8 +65,8 @@
 1. 🗣 Commented on [#415](https://github.com/beanbeanjuice/cafeBot/issues/415) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 2. 🗣 Commented on [#415](https://github.com/beanbeanjuice/cafeBot/issues/415) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 3. 🗣 Commented on [#415](https://github.com/beanbeanjuice/cafeBot/issues/415) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗️ Closed issue [#394](https://github.com/beanbeanjuice/cafeBot/issues/394) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ❗️ Closed issue [#404](https://github.com/beanbeanjuice/cafeBot/issues/404) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. 🗣 Commented on [#415](https://github.com/beanbeanjuice/cafeBot/issues/415) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ❗️ Closed issue [#394](https://github.com/beanbeanjuice/cafeBot/issues/394) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
