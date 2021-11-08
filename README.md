@@ -47,10 +47,10 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [another valorant montage - "I NEED TO RELOAD"](https://www.youtube.com/watch?v=SrRaW5acFAs)
+- [another valorant montage - &quot;I NEED TO RELOAD&quot;](https://www.youtube.com/watch?v=SrRaW5acFAs)
 - [SO MUCH SCREAMING - beanbeanjuice Stream Highlights #1](https://www.youtube.com/watch?v=bbD243tfFYo)
 - [So I trapped my classmates in my Minecraft Realm for 3 Hours...](https://www.youtube.com/watch?v=2Kv5zelbFyk)
-- [when the kids who challenged you to a 2v2 start trash talking (CSGO 2v2 FUNNY MOMENTS AND FAILS)](https://www.youtube.com/watch?v=lNADcCuoxVA)
+- [when the kids who challenged you to a 2v2 start trash talking &lpar;CSGO 2v2 FUNNY MOMENTS AND FAILS&rpar;](https://www.youtube.com/watch?v=lNADcCuoxVA)
 - [happy birthday to you.](https://www.youtube.com/watch?v=SmVztaL5ZWA)
 <!-- YOUTUBE:END -->
 
