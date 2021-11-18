@@ -5,10 +5,10 @@
 
 ## I'm a student and developer!
 
-- 🔭 I'm the proud creator of `cafeBot`!: [cafeBot][cafeBot]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I'm the proud creator of [cafeBot][cafeBot]!
+- 🌱 I’m currently learning `C`, `Java`, `Javascript`, and `HTML/CSS`! 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Help `cafeBot` reach 200 servers!
+- 🥅 2021 Goals: Have `cafeBot` reach ~~100~~ ~~200~~ 300 servers!
 - ⚡ Fun fact: I love to play video games.
 
 ### Connect with me:
