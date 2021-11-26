@@ -62,11 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-2. 🎉 Merged PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-3. 💪 Opened PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-4. ❗️ Opened issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-5. ❗️ Opened issue [#1](https://github.com/beanbeanjuice/KohuCafe/issues/1) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+1. 🗣 Commented on [#1](https://github.com/beanbeanjuice/KohuCafe/issues/1) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+2. ❗️ Closed issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+3. 🎉 Merged PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+4. 💪 Opened PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+5. ❗️ Opened issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
 <!--END_SECTION:activity-->
 
 </details>
