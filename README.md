@@ -62,11 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#435](https://github.com/beanbeanjuice/cafeBot/issues/435) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 🗣 Commented on [#1](https://github.com/beanbeanjuice/KohuCafe/issues/1) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-3. ❗️ Closed issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-4. 🎉 Merged PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
-5. 💪 Opened PR [#3](https://github.com/beanbeanjuice/KohuCafe/pull/3) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+1. 🗣 Commented on [#435](https://github.com/beanbeanjuice/cafeBot/issues/435) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. 🗣 Commented on [#435](https://github.com/beanbeanjuice/cafeBot/issues/435) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ❗️ Opened issue [#435](https://github.com/beanbeanjuice/cafeBot/issues/435) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. 🗣 Commented on [#1](https://github.com/beanbeanjuice/KohuCafe/issues/1) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
+5. ❗️ Closed issue [#2](https://github.com/beanbeanjuice/KohuCafe/issues/2) in [beanbeanjuice/KohuCafe](https://github.com/beanbeanjuice/KohuCafe)
 <!--END_SECTION:activity-->
 
 </details>
