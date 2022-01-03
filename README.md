@@ -8,7 +8,7 @@
 - 🔭 I'm the proud creator of [cafeBot][cafeBot]!
 - 🌱 I’m currently learning `C`, `Java`, `Javascript`, and `HTML/CSS`! 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Have `cafeBot` reach ~~100~~ ~~200~~ ~~300~~ servers!
+- 🥅 2022 Goals: Have `cafeBot` reach 400 servers!
 - ⚡ Fun fact: I love to play video games.
 
 ### Connect with me:
