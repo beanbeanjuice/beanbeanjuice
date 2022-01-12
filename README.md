@@ -6,7 +6,7 @@
 ## I'm a student and developer!
 
 - 🔭 I'm the proud creator of [cafeBot][cafeBot]!
-- 🌱 I’m currently learning `C`, `Java`, `Javascript`, and `HTML/CSS`! 🤣
+- 🌱 I’m currently learning `C`, `C++`, `Java`, `Javascript`, and `HTML/CSS`! 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Have `cafeBot` reach 400 servers!
 - ⚡ Fun fact: I love to play video games.
