@@ -62,11 +62,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#444](https://github.com/beanbeanjuice/cafeBot/pull/444) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗️ Opened issue [#443](https://github.com/beanbeanjuice/cafeBot/issues/443) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ❗️ Opened issue [#442](https://github.com/beanbeanjuice/cafeBot/issues/442) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 💪 Opened PR [#441](https://github.com/beanbeanjuice/cafeBot/pull/441) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🎉 Merged PR [#440](https://github.com/beanbeanjuice/cafeBot/pull/440) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ❗️ Opened issue [#445](https://github.com/beanbeanjuice/cafeBot/issues/445) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. 💪 Opened PR [#444](https://github.com/beanbeanjuice/cafeBot/pull/444) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ❗️ Opened issue [#443](https://github.com/beanbeanjuice/cafeBot/issues/443) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗️ Opened issue [#442](https://github.com/beanbeanjuice/cafeBot/issues/442) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. 💪 Opened PR [#441](https://github.com/beanbeanjuice/cafeBot/pull/441) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
