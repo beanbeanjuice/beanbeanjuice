@@ -1,5 +1,6 @@
 ### Hi there, I'm William - aka [beanbeanjuice][website] 👋
 
+[![wakatime](https://wakatime.com/badge/user/beeb4317-977b-4b19-878a-21e9aa8e43ed.svg?style=for-the-badge)](https://wakatime.com/@beeb4317-977b-4b19-878a-21e9aa8e43ed)
 [![Website](https://img.shields.io/website?label=beanbeanjuice.com&style=for-the-badge&url=https%3A%2F%2Fbeanbeanjuice.com)](https://beanbeanjuice.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/beanbeanjuice?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbeanbeanjuice&screen_name=beanbeanjuice)
 
