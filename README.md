@@ -52,7 +52,13 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="beanbeanjuice's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=beanbeanjuice&count_private=true&show_icons=true&hide_border=true&theme=dracula&include_all_commits=true" />
+  <!-- [GitHub Stats] -->
+  <div align="center">
+    <br>
+    <a href="https://github.com/beanbeanjuice">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=beanbeanjuice&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beanbeanjuice&layout=compact&langs_count=8&theme=tokyonight&count_private=true"/>
+  </div>
 
 </details>
 
