@@ -4,7 +4,6 @@
 [![Website](https://img.shields.io/website?label=beanbeanjuice.com&style=for-the-badge&url=https%3A%2F%2Fbeanbeanjuice.com)](https://beanbeanjuice.com)
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMvKZGLDpy_PWD4QZ1B37hA?style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/beanbeanjuice?style=for-the-badge)
-[![Twitter Follow](https://img.shields.io/twitter/follow/beanbeanjuice?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbeanbeanjuice&screen_name=beanbeanjuice)
 
 ## I'm a student and developer!
 
