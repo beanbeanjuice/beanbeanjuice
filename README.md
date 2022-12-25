@@ -26,11 +26,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [An RDO Christmas - Red Dead Redemption 2 &lpar;RDO Funny Moments&rpar;](https://www.youtube.com/watch?v=oSdl5jVBIKM)
 - [Ace Paradise 🏝️ &lpar;Valorant Montage&rpar;](https://www.youtube.com/watch?v=tDRWKg03afM)
 - [another valorant montage - &quot;I NEED TO RELOAD&quot;](https://www.youtube.com/watch?v=SrRaW5acFAs)
 - [SO MUCH SCREAMING - beanbeanjuice Stream Highlights #1](https://www.youtube.com/watch?v=bbD243tfFYo)
 - [So I trapped my classmates in my Minecraft Realm for 3 Hours...](https://www.youtube.com/watch?v=2Kv5zelbFyk)
+- [happy birthday to you.](https://www.youtube.com/watch?v=SmVztaL5ZWA)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/beanbeanjuice)
