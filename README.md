@@ -9,7 +9,7 @@
 
 - 🔭 I'm the proud creator of [cafeBot][cafeBot]!
 - 🌱 I’m currently learning `C`, `C++`, `Java`, `Javascript`, and `HTML/CSS`.
-- 🥅 2022 Goals: Have `cafeBot` reach ~~400~~ ~~500~~ 600 servers!
+- 🥅 2023 Goals: Have `cafeBot` reach ~~700~~ ~~800~~ 900 servers!
 
 ### Connect with me:
 
