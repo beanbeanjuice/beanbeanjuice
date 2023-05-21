@@ -5,13 +5,14 @@
 ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMvKZGLDpy_PWD4QZ1B37hA?style=for-the-badge)
 ![Twitch Status](https://img.shields.io/twitch/status/beanbeanjuice?style=for-the-badge)
 
-## I'm a student and developer!
+## About Me
 
-- 🔭 I'm the proud creator of [cafeBot][cafeBot]!
-- 🌱 I’m currently learning `C`, `C++`, `Java`, `Javascript`, and `HTML/CSS`.
-- 🥅 2023 Goals: Have `cafeBot` reach ~~700~~ ~~800~~ 900 servers!
+- 🤔 I'm a 2nd year Computer Science student...
+- 😊 I'm the proud creator of [cafeBot][cafeBot]!
+- 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Javascript`, and `HTML/CSS`.
+- 🥅 2023 Goals: Have `cafeBot` reach ~~700~~ ~~800~~ ~~900~~ ~~1000~~ 1300 servers!
 
-### Connect with me:
+### Connections:
 
 [<img align="left" alt="beanbeanjuice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="beanbeanjuice | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
