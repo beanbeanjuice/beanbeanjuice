@@ -7,10 +7,10 @@
 
 ## About Me
 
-- 🤔 I'm a 2nd year Computer Science student...
+- 🤔 I'm a 3nd year Computer Science student...
 - 😊 I'm the proud creator of [cafeBot][cafeBot]!
 - 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Javascript`, and `HTML/CSS`.
-- 🥅 2023 Goals: Have `cafeBot` reach ~~700~~ ~~800~~ ~~900~~ ~~1000~~ 1300 servers!
+- 🥅 2023 Goals: Have `cafeBot` reach ~~700~~ ~~800~~ ~~900~~ ~~1000~~ ~~1300~~ 1400 servers!
 
 ### Connections:
 
