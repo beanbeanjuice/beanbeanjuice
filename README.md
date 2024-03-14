@@ -2,12 +2,10 @@
 
 [![wakatime](https://wakatime.com/badge/user/beeb4317-977b-4b19-878a-21e9aa8e43ed.svg?style=for-the-badge)](https://wakatime.com/@beeb4317-977b-4b19-878a-21e9aa8e43ed)
 [![Website](https://img.shields.io/website?label=beanbeanjuice.com&style=for-the-badge&url=https%3A%2F%2Fbeanbeanjuice.com)](https://beanbeanjuice.com)
-![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCMvKZGLDpy_PWD4QZ1B37hA?style=for-the-badge)
-![Twitch Status](https://img.shields.io/twitch/status/beanbeanjuice?style=for-the-badge)
 
 ## About Me
 
-- 🤔 I'm a 3rd year Computer Science student...
+- 🏫 I'm a 3rd year Computer Science student...
 - 🤖 I'm the proud creator of [cafeBot][cafeBot]!
 - 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Python`, `Javascript`, and `HTML/CSS`.
 - 🥅 2024 Goals: Have `cafeBot` reach 1700 servers!
@@ -15,31 +13,14 @@
 ### Connections:
 
 [<img align="left" alt="beanbeanjuice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="beanbeanjuice | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="beanbeanjuice | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="beanbeanjuice | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Ace Paradise 🏝️ &lpar;Valorant Montage&rpar;](https://www.youtube.com/watch?v=tDRWKg03afM)
-- [another valorant montage - &quot;I NEED TO RELOAD&quot;](https://www.youtube.com/watch?v=SrRaW5acFAs)
-- [SO MUCH SCREAMING - beanbeanjuice Stream Highlights #1](https://www.youtube.com/watch?v=bbD243tfFYo)
-- [So I trapped my classmates in my Minecraft Realm for 3 Hours...](https://www.youtube.com/watch?v=2Kv5zelbFyk)
-- [happy birthday to you.](https://www.youtube.com/watch?v=SmVztaL5ZWA)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://youtube.com/beanbeanjuice)
 
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
+  <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
 1. ❗️ Opened issue [#445](https://github.com/beanbeanjuice/cafeBot/issues/445) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
@@ -52,7 +33,7 @@
 </details>
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>⚡ GitHub Stats</summary>
 
   <!-- [GitHub Stats] -->
   <div align="center">
