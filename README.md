@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#445](https://github.com/beanbeanjuice/cafeBot/issues/445) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#444](https://github.com/beanbeanjuice/cafeBot/pull/444) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ❗️ Opened issue [#443](https://github.com/beanbeanjuice/cafeBot/issues/443) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗️ Opened issue [#442](https://github.com/beanbeanjuice/cafeBot/issues/442) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 💪 Opened PR [#441](https://github.com/beanbeanjuice/cafeBot/pull/441) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ❗ Opened issue [#53](https://github.com/beanbeanjuice/SimpleProxyChat/issues/53) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🚀 Published release [v0.2.2 | Reload Command, Small Improvements](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.2.2) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#33](https://github.com/beanbeanjuice/SimpleProxyChat/issues/33) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#38](https://github.com/beanbeanjuice/SimpleProxyChat/issues/38) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#39](https://github.com/beanbeanjuice/SimpleProxyChat/issues/39) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
