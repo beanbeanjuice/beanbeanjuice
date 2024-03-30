@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#84](https://github.com/beanbeanjuice/SimpleProxyChat/pull/84) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 💪 Opened PR [#85](https://github.com/beanbeanjuice/SimpleProxyChat/pull/85) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 💪 Opened PR [#84](https://github.com/beanbeanjuice/SimpleProxyChat/pull/84) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🗣 Commented on [#81](https://github.com/beanbeanjuice/SimpleProxyChat/issues/81#issuecomment-2024355781) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🔒 Closed issue [#81](https://github.com/beanbeanjuice/SimpleProxyChat/issues/81) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#75](https://github.com/beanbeanjuice/SimpleProxyChat/issues/75#issuecomment-2027770174) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🚀 Published release [v0.3.0 | LiteBans Support, Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.0) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#83](https://github.com/beanbeanjuice/SimpleProxyChat/issues/83) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#79](https://github.com/beanbeanjuice/SimpleProxyChat/issues/79) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#77](https://github.com/beanbeanjuice/SimpleProxyChat/issues/77) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
