@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#94](https://github.com/beanbeanjuice/SimpleProxyChat/issues/94) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 💪 Opened PR [#93](https://github.com/beanbeanjuice/SimpleProxyChat/pull/93) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. ❗ Opened issue [#92](https://github.com/beanbeanjuice/SimpleProxyChat/issues/92) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. ❗ Opened issue [#91](https://github.com/beanbeanjuice/SimpleProxyChat/issues/91) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🗣 Commented on [#75](https://github.com/beanbeanjuice/SimpleProxyChat/issues/75#issuecomment-2027770174) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#100](https://github.com/beanbeanjuice/SimpleProxyChat/issues/100#issuecomment-2068044919) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🗣 Commented on [#99](https://github.com/beanbeanjuice/SimpleProxyChat/issues/99#issuecomment-2068044804) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🚀 Published release [v0.3.1 | Network Manager Support, Bug Fixes, Improvements](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.1) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#82](https://github.com/beanbeanjuice/SimpleProxyChat/issues/82) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#91](https://github.com/beanbeanjuice/SimpleProxyChat/issues/91) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
