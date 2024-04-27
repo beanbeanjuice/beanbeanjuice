@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.3.4 | Small Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.4) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 🔒 Closed issue [#116](https://github.com/beanbeanjuice/SimpleProxyChat/issues/116) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🔒 Closed issue [#117](https://github.com/beanbeanjuice/SimpleProxyChat/issues/117) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🔒 Closed issue [#118](https://github.com/beanbeanjuice/SimpleProxyChat/issues/118) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🎉 Merged PR [#123](https://github.com/beanbeanjuice/SimpleProxyChat/pull/123) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.3.5 | BungeeCord Fake Vanish Bug Fix](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.5) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🎉 Merged PR [#125](https://github.com/beanbeanjuice/SimpleProxyChat/pull/125) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ❗ Opened issue [#126](https://github.com/beanbeanjuice/SimpleProxyChat/issues/126) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 💪 Opened PR [#125](https://github.com/beanbeanjuice/SimpleProxyChat/pull/125) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#124](https://github.com/beanbeanjuice/SimpleProxyChat/pull/124) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
