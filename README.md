@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/beanbeanjuice/beanRTP/pull/16) in [beanbeanjuice/beanRTP](https://github.com/beanbeanjuice/beanRTP)
-2. 🎉 Merged PR [#15](https://github.com/beanbeanjuice/beanRTP/pull/15) in [beanbeanjuice/beanRTP](https://github.com/beanbeanjuice/beanRTP)
-3. 💪 Opened PR [#15](https://github.com/beanbeanjuice/beanRTP/pull/15) in [beanbeanjuice/beanRTP](https://github.com/beanbeanjuice/beanRTP)
-4. ❗ Opened issue [#14](https://github.com/beanbeanjuice/beanRTP/issues/14) in [beanbeanjuice/beanRTP](https://github.com/beanbeanjuice/beanRTP)
-5. 🚀 Published release [v0.3.8 | Discord Chat Bug Fix](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.8) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.3.9 | Module Toggles](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.3.9) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🔒 Closed issue [#55](https://github.com/beanbeanjuice/SimpleProxyChat/issues/55) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🎉 Merged PR [#151](https://github.com/beanbeanjuice/SimpleProxyChat/pull/151) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 💪 Opened PR [#151](https://github.com/beanbeanjuice/SimpleProxyChat/pull/151) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#150](https://github.com/beanbeanjuice/SimpleProxyChat/pull/150) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
