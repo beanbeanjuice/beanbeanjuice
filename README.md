@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/beanbeanjuice/SimpleProxyChat/issues/152#issuecomment-2132138581) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#156](https://github.com/beanbeanjuice/SimpleProxyChat/issues/156) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🚀 Published release [0.4.0 | PlaceholderAPI Support, Helper Plugin](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.4.0) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🔒 Closed issue [#149](https://github.com/beanbeanjuice/SimpleProxyChat/issues/149) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🎉 Merged PR [#155](https://github.com/beanbeanjuice/SimpleProxyChat/pull/155) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.4.1 | Essentials Nickname PlaceholderAPI Bug](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.4.1) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🔒 Closed issue [#156](https://github.com/beanbeanjuice/SimpleProxyChat/issues/156) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🎉 Merged PR [#159](https://github.com/beanbeanjuice/SimpleProxyChat/pull/159) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 💪 Opened PR [#159](https://github.com/beanbeanjuice/SimpleProxyChat/pull/159) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#158](https://github.com/beanbeanjuice/SimpleProxyChat/pull/158) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
