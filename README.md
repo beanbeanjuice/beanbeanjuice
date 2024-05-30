@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-2. 💪 Opened PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-3. 🚀 Published release [v1.5.0 | The "Optional" Update](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/releases/tag/1.5.0) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-4. 🎉 Merged PR [#28](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/28) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-5. 🚀 Published release [v0.4.2 | Essentials Nickname Bug, Discord Nickname Placeholder](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.4.2) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. ❗ Opened issue [#164](https://github.com/beanbeanjuice/SimpleProxyChat/issues/164) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🎉 Merged PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
+3. 💪 Opened PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
+4. 🚀 Published release [v1.5.0 | The "Optional" Update](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/releases/tag/1.5.0) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
+5. 🎉 Merged PR [#28](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/28) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
 <!--END_SECTION:activity-->
 
 </details>
