@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#165](https://github.com/beanbeanjuice/SimpleProxyChat/issues/165) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#164](https://github.com/beanbeanjuice/SimpleProxyChat/issues/164) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🎉 Merged PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-4. 💪 Opened PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
-5. 🚀 Published release [v1.5.0 | The "Optional" Update](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/releases/tag/1.5.0) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
+1. 🎉 Merged PR [#166](https://github.com/beanbeanjuice/SimpleProxyChat/pull/166) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 💪 Opened PR [#166](https://github.com/beanbeanjuice/SimpleProxyChat/pull/166) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ❗ Opened issue [#165](https://github.com/beanbeanjuice/SimpleProxyChat/issues/165) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. ❗ Opened issue [#164](https://github.com/beanbeanjuice/SimpleProxyChat/issues/164) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#29](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper/pull/29) in [beanbeanjuice/Java-Cafe-API-Wrapper](https://github.com/beanbeanjuice/Java-Cafe-API-Wrapper)
 <!--END_SECTION:activity-->
 
 </details>
