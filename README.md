@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/beanbeanjuice/SimpleProxyChat/pull/182) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 🎉 Merged PR [#183](https://github.com/beanbeanjuice/SimpleProxyChat/pull/183) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🎉 Merged PR [#184](https://github.com/beanbeanjuice/SimpleProxyChat/pull/184) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 💪 Opened PR [#184](https://github.com/beanbeanjuice/SimpleProxyChat/pull/184) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 💪 Opened PR [#183](https://github.com/beanbeanjuice/SimpleProxyChat/pull/183) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.5.2 | Broadcast Command, Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.2) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🔒 Closed issue [#176](https://github.com/beanbeanjuice/SimpleProxyChat/issues/176) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#179](https://github.com/beanbeanjuice/SimpleProxyChat/issues/179) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#180](https://github.com/beanbeanjuice/SimpleProxyChat/issues/180) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#181](https://github.com/beanbeanjuice/SimpleProxyChat/issues/181) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
