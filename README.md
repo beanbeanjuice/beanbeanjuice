@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.3 | Player Count Status, Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.3) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#194](https://github.com/beanbeanjuice/SimpleProxyChat/issues/194) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🎉 Merged PR [#193](https://github.com/beanbeanjuice/SimpleProxyChat/pull/193) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🔒 Closed issue [#190](https://github.com/beanbeanjuice/SimpleProxyChat/issues/190) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 💪 Opened PR [#193](https://github.com/beanbeanjuice/SimpleProxyChat/pull/193) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. ❗ Opened issue [#195](https://github.com/beanbeanjuice/SimpleProxyChat/issues/195) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🚀 Published release [v0.5.3 | Player Count Status, Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.3) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ❗ Opened issue [#194](https://github.com/beanbeanjuice/SimpleProxyChat/issues/194) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🎉 Merged PR [#193](https://github.com/beanbeanjuice/SimpleProxyChat/pull/193) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#190](https://github.com/beanbeanjuice/SimpleProxyChat/issues/190) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
