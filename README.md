@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#195](https://github.com/beanbeanjuice/SimpleProxyChat/issues/195) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 🚀 Published release [v0.5.3 | Player Count Status, Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.3) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. ❗ Opened issue [#194](https://github.com/beanbeanjuice/SimpleProxyChat/issues/194) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🎉 Merged PR [#193](https://github.com/beanbeanjuice/SimpleProxyChat/pull/193) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🔒 Closed issue [#190](https://github.com/beanbeanjuice/SimpleProxyChat/issues/190) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 💪 Opened PR [#12](https://github.com/WMGameLive/LeashPlayers/pull/12) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+2. ❗ Opened issue [#11](https://github.com/WMGameLive/LeashPlayers/issues/11) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+3. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251305818) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+4. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251304240) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+5. ❗ Opened issue [#195](https://github.com/beanbeanjuice/SimpleProxyChat/issues/195) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
