@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/WMGameLive/LeashPlayers/pull/12) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
-2. ❗ Opened issue [#11](https://github.com/WMGameLive/LeashPlayers/issues/11) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
-3. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251305818) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
-4. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251304240) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
-5. ❗ Opened issue [#195](https://github.com/beanbeanjuice/SimpleProxyChat/issues/195) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#12](https://github.com/WMGameLive/LeashPlayers/pull/12#issuecomment-2252195227) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+2. 💪 Opened PR [#12](https://github.com/WMGameLive/LeashPlayers/pull/12) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+3. ❗ Opened issue [#11](https://github.com/WMGameLive/LeashPlayers/issues/11) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+4. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251305818) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
+5. 🗣 Commented on [#3](https://github.com/WMGameLive/LeashPlayers/issues/3#issuecomment-2251304240) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
 <!--END_SECTION:activity-->
 
 </details>
