@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#210](https://github.com/beanbeanjuice/SimpleProxyChat/issues/210) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#209](https://github.com/beanbeanjuice/SimpleProxyChat/issues/209) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🔒 Closed issue [#583](https://github.com/beanbeanjuice/cafeBot/issues/583) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🗣 Commented on [#13](https://github.com/WMGameLive/LeashPlayers/pull/13#issuecomment-2285321812) in [WMGameLive/LeashPlayers](https://github.com/WMGameLive/LeashPlayers)
-5. 🚀 Published release [v0.5.5 | 1.21.1 Update and Bug Fixes](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.5) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.5.6 | Command Aliases, Server Alias Names](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.6) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. ❗ Opened issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#209](https://github.com/beanbeanjuice/SimpleProxyChat/issues/209) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#210](https://github.com/beanbeanjuice/SimpleProxyChat/issues/210) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#214](https://github.com/beanbeanjuice/SimpleProxyChat/pull/214) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
