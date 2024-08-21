@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216#issuecomment-2295213016) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 🚀 Published release [v0.5.6 | Command Aliases, Server Alias Names](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.6) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. ❗ Opened issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🔒 Closed issue [#209](https://github.com/beanbeanjuice/SimpleProxyChat/issues/209) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🔒 Closed issue [#210](https://github.com/beanbeanjuice/SimpleProxyChat/issues/210) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#3143](https://github.com/CitizensDev/Citizens2/pull/3143#issuecomment-2297826522) in [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2)
+2. 💪 Opened PR [#3143](https://github.com/CitizensDev/Citizens2/pull/3143) in [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2)
+3. 🗣 Commented on [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216#issuecomment-2295213016) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🚀 Published release [v0.5.6 | Command Aliases, Server Alias Names](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.6) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. ❗ Opened issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
