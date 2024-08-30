@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#217](https://github.com/beanbeanjuice/SimpleProxyChat/pull/217) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#1819](https://github.com/react-auth-kit/react-auth-kit/issues/1819) in [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
-3. 🗣 Commented on [#3143](https://github.com/CitizensDev/Citizens2/pull/3143#issuecomment-2297826522) in [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2)
-4. 💪 Opened PR [#3143](https://github.com/CitizensDev/Citizens2/pull/3143) in [CitizensDev/Citizens2](https://github.com/CitizensDev/Citizens2)
-5. 🗣 Commented on [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216#issuecomment-2295213016) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#219](https://github.com/beanbeanjuice/SimpleProxyChat/issues/219#issuecomment-2319029011) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. ❗ Opened issue [#218](https://github.com/beanbeanjuice/SimpleProxyChat/issues/218) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🗣 Commented on [#1819](https://github.com/react-auth-kit/react-auth-kit/issues/1819#issuecomment-2316579548) in [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
+4. 🔒 Closed issue [#1819](https://github.com/react-auth-kit/react-auth-kit/issues/1819) in [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
+5. 💪 Opened PR [#217](https://github.com/beanbeanjuice/SimpleProxyChat/pull/217) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
