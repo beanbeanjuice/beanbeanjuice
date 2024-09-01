@@ -1,20 +1,15 @@
 ### Hi there, I'm William - aka [beanbeanjuice][website] 👋
 
 [![wakatime](https://wakatime.com/badge/user/beeb4317-977b-4b19-878a-21e9aa8e43ed.svg?style=for-the-badge)](https://wakatime.com/@beeb4317-977b-4b19-878a-21e9aa8e43ed)
-[![Website](https://img.shields.io/website?label=beanbeanjuice.com&style=for-the-badge&url=https%3A%2F%2Fbeanbeanjuice.com)](https://beanbeanjuice.com)
+[![Website](https://uptime.beanbeanjuice.com/api/badge/5/uptime/24?style=for-the-badge&label=beanbeanjuice.com)](https://beanbeanjuice.com)
 
 ## About Me
 
-- 🏫 I'm a 3rd year Computer Science student...
+- 🏫 I'm currently pursuing my Master's degree in Computer Science.
 - 🤖 I'm the proud creator of [cafeBot][cafeBot]!
-- 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Python`, `Javascript`, and `HTML/CSS`.
-- 🥅 2024 Goals: Have `cafeBot` reach 1700 servers!
+- 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Python`, `Javascript`, `Typescript`, `React`, `Rust`, and `HTML/CSS`.
+- 🥅 2024 Goals: Have `cafeBot` reach ~~1700~~ 2000 servers!
 
-### Connections:
-
-[<img align="left" alt="beanbeanjuice.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-
-<br />
 <br />
 
 ---
