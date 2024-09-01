@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#219](https://github.com/beanbeanjuice/SimpleProxyChat/issues/219#issuecomment-2319029011) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. ❗ Opened issue [#218](https://github.com/beanbeanjuice/SimpleProxyChat/issues/218) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🗣 Commented on [#1819](https://github.com/react-auth-kit/react-auth-kit/issues/1819#issuecomment-2316579548) in [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
-4. 🔒 Closed issue [#1819](https://github.com/react-auth-kit/react-auth-kit/issues/1819) in [react-auth-kit/react-auth-kit](https://github.com/react-auth-kit/react-auth-kit)
-5. 💪 Opened PR [#217](https://github.com/beanbeanjuice/SimpleProxyChat/pull/217) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🚀 Published release [v0.5.7 | Disabled Servers, Markdown Escapes, Embed Toggles](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.7) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🔒 Closed issue [#94](https://github.com/beanbeanjuice/SimpleProxyChat/issues/94) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#219](https://github.com/beanbeanjuice/SimpleProxyChat/issues/219) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
