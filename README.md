@@ -18,11 +18,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.5.7 | Disabled Servers, Markdown Escapes, Embed Toggles](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.7) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 🔒 Closed issue [#94](https://github.com/beanbeanjuice/SimpleProxyChat/issues/94) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🔒 Closed issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🔒 Closed issue [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 🔒 Closed issue [#219](https://github.com/beanbeanjuice/SimpleProxyChat/issues/219) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. ❗ Opened issue [#224](https://github.com/beanbeanjuice/SimpleProxyChat/issues/224) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🚀 Published release [v0.5.7 | Disabled Servers, Markdown Escapes, Embed Toggles](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/0.5.7) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. 🔒 Closed issue [#94](https://github.com/beanbeanjuice/SimpleProxyChat/issues/94) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🔒 Closed issue [#215](https://github.com/beanbeanjuice/SimpleProxyChat/issues/215) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🔒 Closed issue [#216](https://github.com/beanbeanjuice/SimpleProxyChat/issues/216) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
