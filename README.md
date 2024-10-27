@@ -18,11 +18,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1007](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1007) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-2. 🗣 Commented on [#998](https://github.com/UC-Davis-molecular-computing/scadnano/issues/998#issuecomment-2434315827) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-3. 💪 Opened PR [#1006](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1006) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-4. 💪 Opened PR [#1003](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1003) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-5. 🗣 Commented on [#1002](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1002#issuecomment-2404055796) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+1. ❗ Opened issue [#1009](https://github.com/UC-Davis-molecular-computing/scadnano/issues/1009) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+2. 🎉 Merged PR [#1006](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1006) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+3. 🗣 Commented on [#1007](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1007#issuecomment-2438754326) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+4. 💪 Opened PR [#1007](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1007) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+5. 🗣 Commented on [#998](https://github.com/UC-Davis-molecular-computing/scadnano/issues/998#issuecomment-2434315827) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
 <!--END_SECTION:activity-->
 
 </details>
