@@ -18,11 +18,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#614](https://github.com/beanbeanjuice/cafeBot/pull/614) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#614](https://github.com/beanbeanjuice/cafeBot/pull/614) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ❗ Opened issue [#226](https://github.com/beanbeanjuice/SimpleProxyChat/issues/226) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-4. 🎉 Merged PR [#1007](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1007) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-5. ❗ Opened issue [#1009](https://github.com/UC-Davis-molecular-computing/scadnano/issues/1009) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+1. ❗ Opened issue [#228](https://github.com/beanbeanjuice/SimpleProxyChat/issues/228) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. ❌ Closed PR [#614](https://github.com/beanbeanjuice/cafeBot/pull/614) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. 💪 Opened PR [#614](https://github.com/beanbeanjuice/cafeBot/pull/614) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗ Opened issue [#226](https://github.com/beanbeanjuice/SimpleProxyChat/issues/226) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🎉 Merged PR [#1007](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1007) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
 <!--END_SECTION:activity-->
 
 </details>
