@@ -18,11 +18,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-2. 🗣 Commented on [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010#issuecomment-2525034727) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-3. 💪 Opened PR [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-4. ❗ Opened issue [#229](https://github.com/beanbeanjuice/SimpleProxyChat/issues/229) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. ❗ Opened issue [#228](https://github.com/beanbeanjuice/SimpleProxyChat/issues/228) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🗣 Commented on [#6722](https://github.com/portainer/portainer/issues/6722#issuecomment-2600600390) in [portainer/portainer](https://github.com/portainer/portainer)
+2. 🎉 Merged PR [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+3. 🗣 Commented on [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010#issuecomment-2525034727) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+4. 💪 Opened PR [#1010](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1010) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+5. ❗ Opened issue [#229](https://github.com/beanbeanjuice/SimpleProxyChat/issues/229) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
