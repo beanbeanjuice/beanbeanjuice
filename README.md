@@ -12,7 +12,9 @@
 
 <br />
 
-[![Spotify](https://novatorem-4icpc2aug-beanbeanjuices-projects.vercel.app/api/spotify)](https://open.spotify.com/user/mbqbaw1vtcvenb35jkgx16iaf)
+<p align="center">
+  <img src="https://novatorem-git-main-beanbeanjuices-projects.vercel.app/api/spotify" />
+</p>
 
 ---
 
