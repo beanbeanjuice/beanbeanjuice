@@ -12,6 +12,8 @@
 
 <br />
 
+[![Spotify](https://novatorem-4icpc2aug-beanbeanjuices-projects.vercel.app/api/spotify)](https://open.spotify.com/user/mbqbaw1vtcvenb35jkgx16iaf)
+
 ---
 
 <details>
