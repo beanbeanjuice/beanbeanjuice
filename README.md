@@ -22,7 +22,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1018](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1018) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+1. 🗣 Commented on [#1018](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1018#issuecomment-2814212832) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
 2. 💪 Opened PR [#1017](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1017) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
 3. 🗣 Commented on [#54](https://github.com/include-davis/Include-Estore-Manager/pull/54#issuecomment-2656596336) in [include-davis/Include-Estore-Manager](https://github.com/include-davis/Include-Estore-Manager)
 4. 💪 Opened PR [#54](https://github.com/include-davis/Include-Estore-Manager/pull/54) in [include-davis/Include-Estore-Manager](https://github.com/include-davis/Include-Estore-Manager)
