@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#82](https://github.com/include-davis/Include-Estore-Manager/pull/82) in [include-davis/Include-Estore-Manager](https://github.com/include-davis/Include-Estore-Manager)
-2. 🎉 Merged PR [#1026](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1026) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-3. 🎉 Merged PR [#1027](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1027) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-4. 🎉 Merged PR [#1024](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1024) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
-5. 💪 Opened PR [#1028](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1028) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+1. 🚀 Published release [test aga](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+2. 🚀 Published release [test](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.0) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+3. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+4. 💪 Opened PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+5. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/scadnano/pull/1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
 <!--END_SECTION:activity-->
 
 </details>
