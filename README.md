@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [test aga](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-2. 🚀 Published release [test](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.0) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-3. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-4. 💪 Opened PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-5. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/scadnano/pull/1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+1. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/DiscordMessageSchedulerBot/pull/1) in [beanbeanjuice/DiscordMessageSchedulerBot](https://github.com/beanbeanjuice/DiscordMessageSchedulerBot)
+2. 💪 Opened PR [#1](https://github.com/beanbeanjuice/DiscordMessageSchedulerBot/pull/1) in [beanbeanjuice/DiscordMessageSchedulerBot](https://github.com/beanbeanjuice/DiscordMessageSchedulerBot)
+3. 🚀 Published release [test aga](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+4. 🚀 Published release [test](https://github.com/beanbeanjuice/scadnano/releases/tag/v0.20.0) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+5. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
 <!--END_SECTION:activity-->
 
 </details>
