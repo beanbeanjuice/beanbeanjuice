@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-2. 💪 Opened PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-3. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/scadnano/pull/1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-4. 💪 Opened PR [#1](https://github.com/beanbeanjuice/scadnano/pull/1) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
-5. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano/pull/2) in [beanbeanjuice/scadnano](https://github.com/beanbeanjuice/scadnano)
+1. 🎉 Merged PR [#1028](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1028) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+2. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano3/pull/2) in [beanbeanjuice/scadnano3](https://github.com/beanbeanjuice/scadnano3)
+3. 💪 Opened PR [#2](https://github.com/beanbeanjuice/scadnano3/pull/2) in [beanbeanjuice/scadnano3](https://github.com/beanbeanjuice/scadnano3)
+4. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/scadnano3/pull/1) in [beanbeanjuice/scadnano3](https://github.com/beanbeanjuice/scadnano3)
+5. 💪 Opened PR [#1](https://github.com/beanbeanjuice/scadnano3/pull/1) in [beanbeanjuice/scadnano3](https://github.com/beanbeanjuice/scadnano3)
 <!--END_SECTION:activity-->
 
 </details>
