@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#317](https://github.com/UC-Davis-molecular-computing/scadnano-python-package/issues/317#issuecomment-3675677376) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
-2. ❌ Unassigned PR [#318](undefined) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
-3. ❌ Assigned PR [#318](undefined) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
-4. 💪 Opened PR [#318](undefined) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
-5. ❗ Opened issue [#317](https://github.com/UC-Davis-molecular-computing/scadnano-python-package/issues/317) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
+1. ❌ Assigned PR [#619](undefined) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#621](https://github.com/beanbeanjuice/cafeBot/issues/621) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. 🗣 Commented on [#317](https://github.com/UC-Davis-molecular-computing/scadnano-python-package/issues/317#issuecomment-3675677376) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
+4. ❌ Unassigned PR [#318](undefined) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
+5. ❌ Assigned PR [#318](undefined) in [UC-Davis-molecular-computing/scadnano-python-package](https://github.com/UC-Davis-molecular-computing/scadnano-python-package)
 <!--END_SECTION:activity-->
 
 </details>
