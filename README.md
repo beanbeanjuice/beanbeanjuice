@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#681](https://github.com/beanbeanjuice/cafeBot/issues/681) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗ Opened issue [#681](https://github.com/beanbeanjuice/cafeBot/issues/681) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Assigned issue [#681](https://github.com/beanbeanjuice/cafeBot/issues/681) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❌ Closed PR [#13207](https://github.com/nextauthjs/next-auth/pull/13207) in [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth)
-5. ℹ️ Labeled issue [#680](https://github.com/beanbeanjuice/cafeBot/issues/680) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ℹ️ Labeled issue [#693](https://github.com/beanbeanjuice/cafeBot/issues/693) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#693](https://github.com/beanbeanjuice/cafeBot/issues/693) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ℹ️ Assigned issue [#693](https://github.com/beanbeanjuice/cafeBot/issues/693) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ℹ️ Assigned issue [#692](https://github.com/beanbeanjuice/cafeBot/issues/692) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Labeled issue [#692](https://github.com/beanbeanjuice/cafeBot/issues/692) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
