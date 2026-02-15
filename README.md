@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#729](https://github.com/beanbeanjuice/cafeBot/pull/729) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#729](https://github.com/beanbeanjuice/cafeBot/pull/729) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 🎉 Merged PR [#728](https://github.com/beanbeanjuice/cafeBot/pull/728) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🔒 Closed issue [#689](https://github.com/beanbeanjuice/cafeBot/issues/689) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🎉 Merged PR [#726](https://github.com/beanbeanjuice/cafeBot/pull/726) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ℹ️ Labeled issue [#731](https://github.com/beanbeanjuice/cafeBot/issues/731) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#731](https://github.com/beanbeanjuice/cafeBot/issues/731) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ℹ️ Labeled issue [#730](https://github.com/beanbeanjuice/cafeBot/issues/730) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗ Opened issue [#730](https://github.com/beanbeanjuice/cafeBot/issues/730) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Labeled PR [#729](https://github.com/beanbeanjuice/cafeBot/pull/729) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
