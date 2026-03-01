@@ -8,7 +8,7 @@
 - 🏫 I'm currently pursuing my Master's degree in Computer Science.
 - 🤖 I'm the proud creator of [cafeBot][cafeBot]!
 - 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Python`, `Javascript`, `Typescript`, `React`, `Rust`, and `HTML/CSS`.
-- 🥅 2025 Goals: Have `cafeBot` reach 2200 servers and 180,000 users!
+- 🥅 2026 Goals: Have `cafeBot` reach 2500 servers and 250,000 users!
 - 🎧 I love to listen to music!
 
 <br />
