@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#742](https://github.com/beanbeanjuice/cafeBot/pull/742) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#742](https://github.com/beanbeanjuice/cafeBot/pull/742) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Labeled PR [#729](https://github.com/beanbeanjuice/cafeBot/pull/729) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🚀 Published release [v4.4.1](https://github.com/beanbeanjuice/cafeBot/releases/tag/v4.4.1) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ℹ️ Unlabeled PR [#729](https://github.com/beanbeanjuice/cafeBot/pull/729) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ℹ️ Assigned PR [#1062](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1062) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+2. 💪 Opened PR [#1062](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1062) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+3. 🗣 Commented on [#1053](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1053#issuecomment-4040964673) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+4. ❌ Closed PR [#1002](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1002) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+5. ℹ️ Labeled PR [#742](https://github.com/beanbeanjuice/cafeBot/pull/742) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
