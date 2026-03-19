@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#2](https://github.com/beanbeanjuice/punkstats/issues/2) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
-2. ❗ Opened issue [#2](https://github.com/beanbeanjuice/punkstats/issues/2) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
-3. ℹ️ Assigned issue [#1](https://github.com/beanbeanjuice/punkstats/issues/1) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
-4. ❗ Opened issue [#1](https://github.com/beanbeanjuice/punkstats/issues/1) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
-5. 🗣 Commented on [#1045](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1045#issuecomment-4059577379) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+1. ℹ️ Labeled issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ℹ️ Assigned issue [#2](https://github.com/beanbeanjuice/punkstats/issues/2) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
+4. ❗ Opened issue [#2](https://github.com/beanbeanjuice/punkstats/issues/2) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
+5. ℹ️ Assigned issue [#1](https://github.com/beanbeanjuice/punkstats/issues/1) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
 <!--END_SECTION:activity-->
 
 </details>
