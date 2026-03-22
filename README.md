@@ -5,10 +5,10 @@
 
 ## About Me
 
-- 🏫 I'm currently pursuing my Master's degree in Computer Science.
+- ~~🏫 I'm currently pursuing my Master's degree in Computer Science.~~ I graduated! 🥳
 - 🤖 I'm the proud creator of [cafeBot][cafeBot]!
-- 🧑‍🎓 I’m currently learning `C`, `C++`, `Java`, `C#`, `Python`, `Javascript`, `Typescript`, `React`, `Rust`, and `HTML/CSS`.
-- 🥅 2026 Goals: Have `cafeBot` reach 2500 servers and 250,000 users!
+- 🧑‍🎓 I’m currently learning [*many*](https://wakatime.com/@beanbeanjuice) programming languages and frameworks.
+- 🥅 2026 Goals: Have `cafeBot` reach 2500 servers and ~~250,000~~ users!
 - 🎧 I love to listen to music!
 
 <br />
