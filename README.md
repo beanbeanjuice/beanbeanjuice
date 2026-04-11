@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗ Opened issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Labeled issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗ Opened issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ℹ️ Assigned issue [#2](https://github.com/beanbeanjuice/punkstats/issues/2) in [beanbeanjuice/punkstats](https://github.com/beanbeanjuice/punkstats)
+1. ℹ️ Labeled issue [#754](https://github.com/beanbeanjuice/cafeBot/issues/754) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#754](https://github.com/beanbeanjuice/cafeBot/issues/754) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ℹ️ Labeled issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗ Opened issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Labeled issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
