@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#754](https://github.com/beanbeanjuice/cafeBot/issues/754) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗ Opened issue [#754](https://github.com/beanbeanjuice/cafeBot/issues/754) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Labeled issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗ Opened issue [#750](https://github.com/beanbeanjuice/cafeBot/issues/750) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ℹ️ Labeled issue [#746](https://github.com/beanbeanjuice/cafeBot/issues/746) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🎉 Merged PR [#1082](https://github.com/UC-Davis-molecular-computing/scadnano/pull/1082) in [UC-Davis-molecular-computing/scadnano](https://github.com/UC-Davis-molecular-computing/scadnano)
+2. ℹ️ Labeled issue [#756](https://github.com/beanbeanjuice/cafeBot/issues/756) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ❗ Opened issue [#756](https://github.com/beanbeanjuice/cafeBot/issues/756) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. 🎉 Merged PR [#2](https://github.com/beanbeanjuice/scadnano-test/pull/2) in [beanbeanjuice/scadnano-test](https://github.com/beanbeanjuice/scadnano-test)
+5. 🎉 Merged PR [#1](https://github.com/beanbeanjuice/scadnano-test/pull/1) in [beanbeanjuice/scadnano-test](https://github.com/beanbeanjuice/scadnano-test)
 <!--END_SECTION:activity-->
 
 </details>
