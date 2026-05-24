@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#768](https://github.com/beanbeanjuice/cafeBot/pull/768) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#768](https://github.com/beanbeanjuice/cafeBot/pull/768) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Labeled PR [#742](https://github.com/beanbeanjuice/cafeBot/pull/742) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ℹ️ Unlabeled PR [#742](https://github.com/beanbeanjuice/cafeBot/pull/742) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🚀 Published release [v4.5.0 - Localization!](https://github.com/beanbeanjuice/cafeBot/releases/tag/v4.5.0) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ℹ️ Assigned issue [#311](https://github.com/beanbeanjuice/SimpleProxyChat/issues/311) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. ℹ️ Labeled issue [#311](https://github.com/beanbeanjuice/SimpleProxyChat/issues/311) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ❗ Opened issue [#311](https://github.com/beanbeanjuice/SimpleProxyChat/issues/311) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. ℹ️ Labeled PR [#768](https://github.com/beanbeanjuice/cafeBot/pull/768) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. 💪 Opened PR [#768](https://github.com/beanbeanjuice/cafeBot/pull/768) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
