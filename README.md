@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#765](https://github.com/beanbeanjuice/cafeBot/issues/765#issuecomment-4733623060) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ℹ️ Assigned issue [#784](https://github.com/beanbeanjuice/cafeBot/issues/784) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Assigned issue [#783](https://github.com/beanbeanjuice/cafeBot/issues/783) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🗣 Commented on [#784](https://github.com/beanbeanjuice/cafeBot/issues/784#issuecomment-4733608338) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ❗ Opened issue [#324](https://github.com/beanbeanjuice/SimpleProxyChat/issues/324) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. 🔒 Closed issue [#783](https://github.com/beanbeanjuice/cafeBot/issues/783) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. 🎉 Merged PR [#785](https://github.com/beanbeanjuice/cafeBot/pull/785) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. 🗣 Commented on [#765](https://github.com/beanbeanjuice/cafeBot/issues/765#issuecomment-4733623060) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ℹ️ Assigned issue [#784](https://github.com/beanbeanjuice/cafeBot/issues/784) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Assigned issue [#783](https://github.com/beanbeanjuice/cafeBot/issues/783) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
