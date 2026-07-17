@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#794](https://github.com/beanbeanjuice/cafeBot/pull/794#issuecomment-4953312274) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ℹ️ Labeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Unlabeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🚀 Published release [v4.6.0 - Hello, attachments!](https://github.com/beanbeanjuice/cafeBot/releases/tag/v4.6.0) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🎉 Merged PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. ℹ️ Labeled issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. 🗣 Commented on [#794](https://github.com/beanbeanjuice/cafeBot/pull/794#issuecomment-4953312274) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ℹ️ Labeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Unlabeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
