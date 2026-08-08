@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗ Opened issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 🗣 Commented on [#794](https://github.com/beanbeanjuice/cafeBot/pull/794#issuecomment-4953312274) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ℹ️ Labeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ℹ️ Unlabeled PR [#794](https://github.com/beanbeanjuice/cafeBot/pull/794) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🗣 Commented on [#7694](https://github.com/louislam/uptime-kuma/issues/7694#issuecomment-5223435235) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+2. ℹ️ Labeled issue [#7694](https://github.com/louislam/uptime-kuma/issues/7694) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+3. ❗ Opened issue [#7694](https://github.com/louislam/uptime-kuma/issues/7694) in [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma)
+4. ℹ️ Labeled issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ❗ Opened issue [#797](https://github.com/beanbeanjuice/cafeBot/issues/797) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
