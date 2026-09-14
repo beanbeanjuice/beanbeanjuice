@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#160](https://github.com/nvdweem/PCPanel/pull/160) in [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel)
-2. ℹ️ Labeled issue [#159](https://github.com/nvdweem/PCPanel/issues/159) in [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel)
-3. ❗ Opened issue [#159](https://github.com/nvdweem/PCPanel/issues/159) in [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel)
-4. ℹ️ Labeled PR [#806](https://github.com/beanbeanjuice/cafeBot/pull/806) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🗣 Commented on [#806](https://github.com/beanbeanjuice/cafeBot/pull/806#issuecomment-5578727710) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🗣 Commented on [#2338](https://github.com/edde746/plezy/issues/2338#issuecomment-5651904070) in [edde746/plezy](https://github.com/edde746/plezy)
+2. ℹ️ Labeled issue [#2338](https://github.com/edde746/plezy/issues/2338) in [edde746/plezy](https://github.com/edde746/plezy)
+3. ❗ Opened issue [#2338](https://github.com/edde746/plezy/issues/2338) in [edde746/plezy](https://github.com/edde746/plezy)
+4. 💪 Opened PR [#160](https://github.com/nvdweem/PCPanel/pull/160) in [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel)
+5. ℹ️ Labeled issue [#159](https://github.com/nvdweem/PCPanel/issues/159) in [nvdweem/PCPanel](https://github.com/nvdweem/PCPanel)
 <!--END_SECTION:activity-->
 
 </details>
