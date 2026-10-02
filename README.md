@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 🗣 Commented on [#2338](https://github.com/edde746/plezy/issues/2338#issuecomment-5651904070) in [edde746/plezy](https://github.com/edde746/plezy)
-4. ℹ️ Labeled issue [#2338](https://github.com/edde746/plezy/issues/2338) in [edde746/plezy](https://github.com/edde746/plezy)
-5. ❗ Opened issue [#2338](https://github.com/edde746/plezy/issues/2338) in [edde746/plezy](https://github.com/edde746/plezy)
+1. 🗣 Commented on [#819](https://github.com/beanbeanjuice/cafeBot/issues/819#issuecomment-5945621663) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+2. ❗ Opened issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+3. ℹ️ Labeled issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ℹ️ Labeled PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. 💪 Opened PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
