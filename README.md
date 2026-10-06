@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#819](https://github.com/beanbeanjuice/cafeBot/issues/819#issuecomment-5945621663) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. ❗ Opened issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. ℹ️ Labeled issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ℹ️ Labeled PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 💪 Opened PR [#818](https://github.com/beanbeanjuice/cafeBot/pull/818) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🗣 Commented on [#1676](https://github.com/moghtech/komodo/issues/1676#issuecomment-6008556619) in [moghtech/komodo](https://github.com/moghtech/komodo)
+2. 🗣 Commented on [#1676](https://github.com/moghtech/komodo/issues/1676#issuecomment-6008420260) in [moghtech/komodo](https://github.com/moghtech/komodo)
+3. 🗣 Commented on [#819](https://github.com/beanbeanjuice/cafeBot/issues/819#issuecomment-5945621663) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+4. ❗ Opened issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+5. ℹ️ Labeled issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
