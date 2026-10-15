@@ -14,7 +14,7 @@
 <br />
 
 <p align="center">
-  <img src="https://novatorem-git-main-beanbeanjuices-projects.vercel.app/api/spotify" />
+  <img src="https://gh-spotify-stats.beanbeanjuice.dev/api/spotify" />
 </p>
 
 ---
