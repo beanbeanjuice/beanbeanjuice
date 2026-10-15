@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1676](https://github.com/moghtech/komodo/issues/1676#issuecomment-6008556619) in [moghtech/komodo](https://github.com/moghtech/komodo)
-2. 🗣 Commented on [#1676](https://github.com/moghtech/komodo/issues/1676#issuecomment-6008420260) in [moghtech/komodo](https://github.com/moghtech/komodo)
-3. 🗣 Commented on [#819](https://github.com/beanbeanjuice/cafeBot/issues/819#issuecomment-5945621663) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. ❗ Opened issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. ℹ️ Labeled issue [#819](https://github.com/beanbeanjuice/cafeBot/issues/819) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
+1. 🗣 Commented on [#310](https://github.com/beanbeanjuice/SimpleProxyChat/issues/310#issuecomment-6162384056) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🗣 Commented on [#343](https://github.com/beanbeanjuice/SimpleProxyChat/issues/343#issuecomment-6162468919) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ❌ Closed PR [#242](https://github.com/beanbeanjuice/SimpleProxyChat/pull/242) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🎉 Merged PR [#342](https://github.com/beanbeanjuice/SimpleProxyChat/pull/342) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. ❗ Opened issue [#343](https://github.com/beanbeanjuice/SimpleProxyChat/issues/343) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
 <!--END_SECTION:activity-->
 
 </details>
