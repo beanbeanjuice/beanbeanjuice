@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#826](https://github.com/beanbeanjuice/cafeBot/pull/826) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-2. 💪 Opened PR [#826](https://github.com/beanbeanjuice/cafeBot/pull/826) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-3. 🎉 Merged PR [#825](https://github.com/beanbeanjuice/cafeBot/pull/825) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-4. 🔒 Closed issue [#824](https://github.com/beanbeanjuice/cafeBot/issues/824) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
-5. 🗣 Commented on [#307](https://github.com/beanbeanjuice/SimpleProxyChat/issues/307#issuecomment-6389664955) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. ℹ️ Unlabeled PR [#374](https://github.com/beanbeanjuice/SimpleProxyChat/pull/374) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+2. 🗣 Commented on [#374](https://github.com/beanbeanjuice/SimpleProxyChat/pull/374#issuecomment-6406626175) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+3. ℹ️ Labeled PR [#374](https://github.com/beanbeanjuice/SimpleProxyChat/pull/374) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 🚀 Published release [v1.0.5](https://github.com/beanbeanjuice/SimpleProxyChat/releases/tag/v1.0.5) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. ℹ️ Labeled PR [#826](https://github.com/beanbeanjuice/cafeBot/pull/826) in [beanbeanjuice/cafeBot](https://github.com/beanbeanjuice/cafeBot)
 <!--END_SECTION:activity-->
 
 </details>
