@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-2. 💪 Opened PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-3. 🗣 Commented on [#791](https://github.com/fireshare-app/fireshare/issues/791#issuecomment-6536660594) in [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare)
-4. ℹ️ Assigned issue [#795](https://github.com/fireshare-app/fireshare/issues/795) in [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare)
-5. ℹ️ Labeled issue [#795](https://github.com/fireshare-app/fireshare/issues/795) in [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare)
+1. ℹ️ Assigned issue [#1](https://github.com/beanbeanjuice/EspressoShare/issues/1) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
+2. ❗ Opened issue [#1](https://github.com/beanbeanjuice/EspressoShare/issues/1) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
+3. ℹ️ Labeled PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+4. 💪 Opened PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+5. 🗣 Commented on [#791](https://github.com/fireshare-app/fireshare/issues/791#issuecomment-6536660594) in [fireshare-app/fireshare](https://github.com/fireshare-app/fireshare)
 <!--END_SECTION:activity-->
 
 </details>
