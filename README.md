@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#629](https://github.com/Vanilagy/mediabunny/issues/629) in [Vanilagy/mediabunny](https://github.com/Vanilagy/mediabunny)
-2. ℹ️ Assigned issue [#1](https://github.com/beanbeanjuice/EspressoShare/issues/1) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
-3. ❗ Opened issue [#1](https://github.com/beanbeanjuice/EspressoShare/issues/1) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
-4. ℹ️ Labeled PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
-5. 💪 Opened PR [#383](https://github.com/beanbeanjuice/SimpleProxyChat/pull/383) in [beanbeanjuice/SimpleProxyChat](https://github.com/beanbeanjuice/SimpleProxyChat)
+1. ℹ️ Labeled PR [#14](https://github.com/beanbeanjuice/CoffeeChat/pull/14) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+2. 💪 Opened PR [#14](https://github.com/beanbeanjuice/CoffeeChat/pull/14) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+3. 🎉 Merged PR [#13](https://github.com/beanbeanjuice/CoffeeChat/pull/13) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+4. 🔒 Closed issue [#11](https://github.com/beanbeanjuice/CoffeeChat/issues/11) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+5. 💪 Opened PR [#13](https://github.com/beanbeanjuice/CoffeeChat/pull/13) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
 <!--END_SECTION:activity-->
 
 </details>
