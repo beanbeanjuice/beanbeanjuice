@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#22](https://github.com/beanbeanjuice/CoffeeChat/issues/22#issuecomment-6812323413) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
-2. 🗣 Commented on [#23](https://github.com/beanbeanjuice/CoffeeChat/pull/23#issuecomment-6812297968) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
-3. ℹ️ Labeled PR [#23](https://github.com/beanbeanjuice/CoffeeChat/pull/23) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
-4. ℹ️ Unlabeled PR [#23](https://github.com/beanbeanjuice/CoffeeChat/pull/23) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
-5. 🚀 Published release [coffee-chat: v0.4.0](https://github.com/beanbeanjuice/CoffeeChat/releases/tag/coffee-chat-v0.4.0) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+1. 💪 Opened PR [#2](https://github.com/beanbeanjuice/EspressoShare/pull/2) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
+2. ℹ️ Assigned PR [#2](https://github.com/beanbeanjuice/EspressoShare/pull/2) in [beanbeanjuice/EspressoShare](https://github.com/beanbeanjuice/EspressoShare)
+3. 🗣 Commented on [#22](https://github.com/beanbeanjuice/CoffeeChat/issues/22#issuecomment-6812323413) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+4. 🗣 Commented on [#23](https://github.com/beanbeanjuice/CoffeeChat/pull/23#issuecomment-6812297968) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
+5. ℹ️ Labeled PR [#23](https://github.com/beanbeanjuice/CoffeeChat/pull/23) in [beanbeanjuice/CoffeeChat](https://github.com/beanbeanjuice/CoffeeChat)
 <!--END_SECTION:activity-->
 
 </details>
