@@ -23,11 +23,11 @@
   <summary>⚡ Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled PR [#33](https://github.com/beanbeanjuice/CoffeeCalendar/pull/33) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
-2. 🗣 Commented on [#33](https://github.com/beanbeanjuice/CoffeeCalendar/pull/33#issuecomment-6908197152) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
-3. 🚀 Published release [coffee-calendar: v0.6.0](https://github.com/beanbeanjuice/CoffeeCalendar/releases/tag/coffee-calendar-v0.6.0) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
-4. ℹ️ Unlabeled PR [#33](https://github.com/beanbeanjuice/CoffeeCalendar/pull/33) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
-5. 🎉 Merged PR [#33](https://github.com/beanbeanjuice/CoffeeCalendar/pull/33) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
+1. ℹ️ Labeled PR [#36](https://github.com/beanbeanjuice/CoffeeCalendar/pull/36) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
+2. 🗣 Commented on [#36](https://github.com/beanbeanjuice/CoffeeCalendar/pull/36#issuecomment-7092342341) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
+3. 🚀 Published release [coffee-calendar: v0.6.1](https://github.com/beanbeanjuice/CoffeeCalendar/releases/tag/coffee-calendar-v0.6.1) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
+4. ℹ️ Unlabeled PR [#36](https://github.com/beanbeanjuice/CoffeeCalendar/pull/36) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
+5. 🎉 Merged PR [#36](https://github.com/beanbeanjuice/CoffeeCalendar/pull/36) in [beanbeanjuice/CoffeeCalendar](https://github.com/beanbeanjuice/CoffeeCalendar)
 <!--END_SECTION:activity-->
 
 </details>
